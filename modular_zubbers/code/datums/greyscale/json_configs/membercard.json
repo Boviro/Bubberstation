@@ -1,0 +1,21 @@
+{
+	"membercard": [
+		{
+			"type": "icon_state",
+			"icon_state": "card_background",
+			"blend_mode": "overlay",
+			"color_ids": [1]
+		},
+		{
+			"type": "icon_state",
+			"icon_state": "card_text",
+			"blend_mode": "overlay",
+			"color_ids": [2]
+		},
+		{
+			"type": "icon_state",
+			"icon_state": "icon_NT",
+			"blend_mode":"overlay"
+		}
+	]
+}

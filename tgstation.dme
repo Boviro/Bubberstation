@@ -12,7 +12,6 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
-#include "__odlint.dm"
 #include "_maps\_basemap.dm"
 #include "code\__byond_version_compat.dm"
 #include "code\_compile_options.dm"
@@ -8665,6 +8664,8 @@
 #include "modular_zubbers\code\datums\computer_datums\protolathe_modifications.dm"
 #include "modular_zubbers\code\datums\diseases\advance\presets.dm"
 #include "modular_zubbers\code\datums\greyscale\config_types\greyscale_configs\greyscale_clothes.dm"
+#include "modular_zubbers\code\datums\greyscale\config_types\greyscale_configs\membercard.dm"
+#include "modular_zubbers\code\datums\greyscale\config_types\greyscale_configs\membercard.dm"
 #include "modular_zubbers\code\datums\mapgen\Cavegens\moonstation.dm"
 #include "modular_zubbers\code\datums\materials\basemats.dm"
 #include "modular_zubbers\code\datums\mood_events\bloodsucker_events.dm"
@@ -9027,7 +9028,9 @@
 #include "modular_zubbers\code\modules\mapping\access_helpers.dm"
 #include "modular_zubbers\code\modules\mapping\limastation\areas.dm"
 #include "modular_zubbers\code\modules\mapping\limastation\shuttles.dm"
+#include "modular_zubbers\code\modules\membership_cards\membershipcard.dm"
 #include "modular_zubbers\code\modules\mapping\limastation\static_plaque.dm"
+#include "modular_zubbers\code\modules\membership_cards\membershipcard.dm"
 #include "modular_zubbers\code\modules\mapping\ss13_construct\areas.dm"
 #include "modular_zubbers\code\modules\mining\abandoned_crates.dm"
 #include "modular_zubbers\code\modules\mining\shelters.dm"
